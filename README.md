@@ -9,10 +9,10 @@ Require this class in functions.phpp
 2.number_pagenavi($url, $current_page, $nums, $cols)
 use number_pagernvi function
 
-@param url /*view links*/ 
+@param $url   //view links
 
-@param current_page /*current page index*/
+@param $current_page //current page index
 
-@param nums /*set how many data of every page */
+@param $nums //set how many data of every page
 
-@param cols /*set how many pagination of current page view left and right */
+@param $cols //set how many pagination of current page view left and right
